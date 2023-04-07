@@ -6,7 +6,9 @@
 
 
 <template>
-<h1>Hello</h1>
+<div>
+    <h1 class="text-7xl">Hello</h1>
+</div>  
 
 
 
@@ -15,5 +17,7 @@
 
 
 <style scoped>
+
+
 
 </style>
