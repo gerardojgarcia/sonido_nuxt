@@ -12,7 +12,12 @@
 <div>
 
     <AppHeader/>
-    <AppMusicContainer/>
+    <KeepAlive>
+
+        <AppMusicContainer/>
+
+    </KeepAlive>
+    
     
    
 </div>  

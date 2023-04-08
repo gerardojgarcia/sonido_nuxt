@@ -2,16 +2,21 @@
 
 defineProps({
     title: String,
-    link: String,
+    action: String,
 
 }) 
+
+function play() {
+    const audio = document.querySelector('.track')
+    this.audio.play
+}
 
 
 </script>
 
 <template>
     <div class="m-4">
-        <button :to="link" id="app-btn" class="rounded-sm border-black border-4 p-3 duration-150 ">{{ title }} </button>
+        <button :@click="action" id="app-btn" class="rounded-sm border-black border-4 p-3 duration-150 ">{{ title }} </button>
     </div>
 
 
