@@ -12,11 +12,7 @@
 <div>
 
     
-    <KeepAlive>
-
-        <AppMusicContainer/>
-
-    </KeepAlive>
+    
     
     
    

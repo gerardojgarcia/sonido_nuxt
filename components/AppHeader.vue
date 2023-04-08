@@ -7,16 +7,22 @@
 </script>
 <template>
 
-    <div>
+    <header class="flex">
 
-        <h1 class="text-7xl font-bold">SonidoSolar</h1>
-        <AppButton title="Listen" link="/"/>
+        <h1 class=" font-bold">Sonido.Solar</h1>
 
 
-    </div>
+
+    </header>
 
 
 </template>
+<style scoped>
 
+    h1 {
+        font-size: 15vw;
+    }
+    
+</style>
 
 

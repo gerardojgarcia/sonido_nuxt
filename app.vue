@@ -12,7 +12,7 @@
 
 
 body {
-  background-color: #FFA07A;
+  background-color: #f8d6b3;
   font-family: 'Public Sans', sans-serif;
 }
 
