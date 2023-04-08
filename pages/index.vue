@@ -11,7 +11,7 @@
 <template>
 <div>
 
-    <AppHeader/>
+    
     <KeepAlive>
 
         <AppMusicContainer/>
