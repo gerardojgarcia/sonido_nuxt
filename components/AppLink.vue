@@ -11,7 +11,7 @@ defineProps({
 
 <template>
     <div class="m-4">
-        <NuxtLink :to="link" id="app-btn" class="rounded-sm border-black border-4 p-3 duration-150 ">{{ title }} </NuxtLink>
+        <NuxtLink :to="link" id="app-btn" class="rounded-sm border-black border-4 p-3 duration-500 ">{{ title }} </NuxtLink>
     </div>
 
 

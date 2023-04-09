@@ -54,6 +54,7 @@ function active(){
     box-shadow: 8px 10px #FF6b6b;
     border: .4rem solid black;
     transform: translateX(50px) ;
+    transition: all 500ms;
 
  }
 
