@@ -2,19 +2,15 @@
 
 
 
-
-
-
-
 </script>
 
 <template>
 
 
-    <div >
+    <div>
     
         <AppMusicPlayer
-            title="Adios Adios Amor"
+            title="Adios Adios Amor Volume 3"
             artist="DJ El Chante"
             duration="47:35"
             src="/adiosadiosamor_Vol2.mp3"

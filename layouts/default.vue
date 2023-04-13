@@ -3,9 +3,9 @@
   <AppHeader/>
 
 
-  <div class="flex flex-row justify-between w-3/4 m-auto">
+  <div class="flex flex-col md:flex-row justify-around  m-auto">
     <AppTrackList/>
-    <slot/>
+    <slot class="md:w-1/2" />
   </div>
 </div>
 </template>

@@ -1,4 +1,11 @@
+
+
+
+
+
 <template>
+
+  
   <div>
     <NuxtLayout>
 
