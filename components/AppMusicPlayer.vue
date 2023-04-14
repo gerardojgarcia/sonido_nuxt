@@ -133,7 +133,7 @@ audioTime.innerText = trackCurrentTime
 
 </audio>
 
-<div class="music-controls flex flex-row md:justify-end">
+<div class="music-controls flex flex-row justify-center md:justify-end">
 
     <AppButton title="Play" @click="playTrack()"/>
     <AppButton title="Pause" @click="pauseTrack()"/>
